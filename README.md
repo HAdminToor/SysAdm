@@ -66,6 +66,11 @@ IPv6 to IPv4:
 
 https://www.whatsmydns.net/ipv6-to-ipv4 
 
+https://terramorph.tilda.ws/turbo1
+
+Рисование топологий:
+
+https://app.diagrams.net/
 
 ______________________________________________________________________________________________________________________________
 
