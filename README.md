@@ -43,6 +43,30 @@
 четкое распределение приоритетов;
 аналитическое мышление;
 умение находить, быстро осваивать новую информацию.
+
+***____________________________________***
+
+Маски IPv4:
+
+https://yandex.ru/images/search?img_url=https%3A%2F%2Ftadex.com.ua%2Fwp-content%2Fuploads%2F2022%2F04%2Fa3c3ac3db26fafdd8be16c57145b1d79.png&lr=11342&pos=0&rpt=simage&source=serp&text=таблица%20масок 
+
+IPv4 to IPv6:
+
+https://www.whatsmydns.net/ipv4-to-ipv6
+
+Маски IPv6: 
+
+https://www.mymathtables.com/table/other/IPV6-subnetting-chart.html 
+
+Калькулятор сжатия / расширения адреса IPv6:
+
+https://ivit.pro/services/kalkulyator-szhatiya-rasshireniya-adresa-ipv6/ 
+
+IPv6 to IPv4:
+
+https://www.whatsmydns.net/ipv6-to-ipv4 
+
+
 ______________________________________________________________________________________________________________________________
 
 Отчет
